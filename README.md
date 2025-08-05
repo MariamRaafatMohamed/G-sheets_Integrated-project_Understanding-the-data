@@ -56,9 +56,9 @@ This project explores access to basic, limited, unimproved, and surface-level dr
 | Chart | Description |
 |-------|-------------|
 | ![Boxplot](screenshots/boxplot.png) | Distribution of access types by country |
-| ![IncomeGroup](screenshots/income_group.png) | Water access levels by income group |
-| ![StackedColumns](screenshots/access_by_pop.png) | 100% stacked bar by population group |
-| ![LineChart](screenshots/urban_vs_rural_line.png) | Urban vs rural share comparison |
+| ![IncomeGroup](Screenshots/IncomeGroup.png) | Water access levels by income group |
+| ![StackedColumns](Screenshots/StackedColumns.png) | 100% stacked bar by population group |
+| ![LineChart](screenshots/LineChart.png) | Urban vs rural share comparison |
 
 >  Screenshots folder includes core insights and analytical charts used throughout the project.
 
